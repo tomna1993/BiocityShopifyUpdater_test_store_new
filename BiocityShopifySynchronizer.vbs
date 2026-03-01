@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run """.\bin\rubyw.exe"" "".\app\BiocityShopifySynchronizer_app.rb""", 1

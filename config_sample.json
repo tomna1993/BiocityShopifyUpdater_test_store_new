@@ -1,0 +1,11 @@
+{
+  "SHOP": "sample.myshopify.com",
+  "API_URL": "/admin/api/2025-10",
+  "TOKEN": "shpat_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+
+  "hasznalt-oszlopok": {
+    "vonalkod-oszlop": "Vonalkód",
+    "mennyiseg-oszlop": "Mennyiség",
+    "eladasi-ar-oszlop": "Elad. ár bruttó"
+  }
+}
