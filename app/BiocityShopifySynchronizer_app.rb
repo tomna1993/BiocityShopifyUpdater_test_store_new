@@ -70,7 +70,7 @@ class UpdaterLogic
                     "gid://shopify/Product/#{product_id}",
                     "gid://shopify/ProductVariant/#{variant_id}",
                     details["price"],
-                    "CONTINUE",
+                    "DENY",
                     nil
                 ]
             end
